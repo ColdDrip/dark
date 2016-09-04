@@ -1,5 +1,4 @@
-#dark
-for dark people
+#React
 
 <h2>Introduction</h2>
 <h2>Concept</h2>
