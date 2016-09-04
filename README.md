@@ -116,10 +116,10 @@ The format of our project plan is in response to Dekker’s provided feedback bo
 Since the application of affective feedback to news consumption is such an unexplored space, it is crucial to first identify what this data actually is (e.g. do the readings vary greatly?; are the readings actually indicative of the response people think they had?), and what it may mean to people (e.g. what do people want to see done with this data?; in what ways might people value awareness of this data, and why?). As such, we have purposefully refrained from being specific about what exactly we may build for our final prototype and how it may utilize the GSR data. Although we will eventually build a more targeted prototype, we should reiterate that our primary objective with this project is to see how the introduction of our initial bracelet prototype can lead to human values emerging surrounding the application of affective feedback to news consumption. This project is an exploration of what this awareness might mean to people, and how designers can leverage emerging human values in order to develop socially meaningful applications within this space.
 
 <h4>Overall Project Plan</h4>
-![plan table](/trial.jpg)
+![plan table](/plan.png)
 
 <h4>Breakdown of Milestones & Task Allocation</4>
-
+![milestones table](/milestones.png)
 
 <h2>Tags</h2>
 \#awareness \#humanvalues \#affectivecomputing \#ambiguity \#wearabletechnology \#internetofthings \#newsconsumption
