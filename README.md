@@ -118,7 +118,7 @@ Since the application of affective feedback to news consumption is such an unexp
 <h4>Overall Project Plan</h4>
 ![plan table](/plan.png)
 
-<h4>Breakdown of Milestones & Task Allocation</4>
+<h4>Breakdown of Milestones & Task Allocation</h4>
 ![milestones table](/milestones.png)
 
 <h2>Tags</h2>
