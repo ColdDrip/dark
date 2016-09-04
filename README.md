@@ -95,7 +95,7 @@ Since the application of affective feedback to news consumption is such an unexp
 
 
 <h2>Tags</h2>
-#awareness #humanvalues #affectivecomputing #ambiguity #wearabletechnology #internetofthings #newsconsumption
+\#awareness \#humanvalues \#affectivecomputing \#ambiguity \#wearabletechnology \#internetofthings \#newsconsumption
 
 <h2>References</h2>
 *Brutality-Desensitization Process Nearly Complete.* (1999). *The Onion.* Retrieved 4 September 2016, from http://www.theonion.com/article/brutality-desensitization-process-nearly-complete-734
