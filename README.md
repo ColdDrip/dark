@@ -52,7 +52,7 @@ There is a lot of ambiguity in GSR because an increase in skin conductance can b
 React compiles all user data for every news story and provides an average “reaction magnitude,” allowing users to compare their own reaction to that of others.
 
 <h4>Target Audience</h4>
-React is primarily intended for people who want to be more aware of the impact (or lack thereof) that consuming particular news stories has on them (and other people). As specific human values are identified after the introduction of our bracelet prototype, our target audience will become narrower. See “Some Preliminary Notes on the Structure of Our Project Plan” under “Plan” for more information regarding the scope of this project.
+React is primarily intended for people who want to be more aware of the impact (or lack thereof) that consuming particular news stories has on them (and other people). As specific human values are identified after the introduction of our bracelet prototype, our target audience will become narrower. See [Some Preliminary Notes on the Structure of Our Project Plan](#some-preliminary-notes-on-the-structure-of-our-project-plan) for more information regarding the scope of this project.
 
 The data React will collect can bring about greater societal awareness of what news requires in order to provoke arousal. This data can therefore be of great use to journalists and researchers. That being said, the application we will develop within this course will be targeted at ordinary news consumers only. We believe that ordinary news consumers must have a personal incentive for wanting awareness of GSR data before such data could even possibly be tracked on a scale large enough to be sufficiently accessible to journalists and researchers. As such, React encompasses personal use and does not extend consideration to more wide-reaching uses of GSR data (though numerous potentialities for such uses certainly do exist).
 
@@ -66,7 +66,7 @@ There is so much that can be done with the GSR data that React will collect. Pos
 + utilizing haptic feedback to indicate to users what the average reaction magnitude was to the news story they are consuming as they are consuming it
 + and so much more...
 
-The purpose of our intended early release of the initial prototype of the application described above is to allow us to more clearly identify human values that emerge in response to the awareness that this prototype provides. For a clearer explanation of why we have chosen to conduct the project in this manner, see “Some Preliminary Notes on the Structure of Our Project Plan” under “Plan,” which provides more coherent justifications in regards to the scope of this project.
+The purpose of our intended early release of the initial prototype of the application described above is to allow us to more clearly identify human values that emerge in response to the awareness that this prototype provides. For a clearer explanation of why we have chosen to conduct the project in this manner, see [Some Preliminary Notes on the Structure of Our Project Plan](#some-preliminary-notes-on-the-structure-of-our-project-plan), which provides more coherent justifications in regards to the scope of this project.
 
 <h2>Team</h2>
 <h4>Members</h4>
