@@ -14,7 +14,7 @@ React is an application that enables users to have greater awareness of the magn
 <<<<<<< HEAD
 ![Concept Image](/assets/image/proposal.png?raw=true)
 =======
-![concept image](https://github.com/deco3500/dark/proposal.png)
+![concept image](/proposal.png)
 >>>>>>> origin/master
 
 <h4>How it Works</h4>
