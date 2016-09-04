@@ -11,7 +11,7 @@ The primary objective of this project is to see how the introduction of the prot
 <h2>Concept</h2>
 React is an application that enables users to have greater awareness of the magnitude of their own reactions to particular news stories. It is comprised of a smartphone app and a wearable bracelet. When the smartphone app is open, the bracelet measures the user’s real-time galvanic skin response (“GSR”), which is indicative of psychological or physiological arousal. This data is then sent to the smartphone app, which provides the user with a more detailed report of their reactions to varying news stories.
 
-dark/proposal.png
+![concept image](/dark/proposal.png?raw=true)
 
 <h4>How it Works</h4>
 The bracelet component of React is intended to be worn regularly by users, but it will only turn on once users open the React smartphone app and press “track” after finding a news story to read or watch (and inputting its url). As users consume the news story, the bracelet will measure and visualize their GSR. When they are done consuming the news story, users must “stop” the tracking (which will also turn off the bracelet). The smartphone app will then provide them with a graph of their GSR throughout the duration of their consumption time as well as their average GSR, their high, and their low (out of 10, where 10 indicates the highest level of arousal). Additionally, users may compare their own data to that of other anonymous users who have consumed the same news story.
