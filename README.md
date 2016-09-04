@@ -58,5 +58,53 @@ In general, it is expected that team members inform the rest of the team as soon
 If there are any disputes within the team, the team will agree to admit that conflict is present and needs to be resolved. Attempts will be made to understand the conflict from all perspectives. Those involved in the conflict should communicate openly with the intentions of reaching an agreement and moving forward. In the case that the team’s attempts at conflict resolution do not succeed, advice will be sought from tutors and the course coordinator.
 
 <h2>Communication</h2>
+<h4>Meetings</h4>
+Face-to-face meetings will serve as the team’s main method of communication. Regular meetings will be held in the in-class studio sessions (Monday 1-2pm; Wednesday 4-6pm) and every Thursday from 1-3pm. If more time is required, the team will refer to an availability chart completed by all team members to decide an appropriate time to meet. An agenda will be prepared for each meeting. This agenda will include discussion points for decision making, things to do within the meeting (e.g. wireframes, partner coding, etc.), and task allocation (to be completed by team members before the next meeting). Some impromptu team discussions may occur before or after other classes that team members share (as all team members have common classes and all see each other Monday through Friday).
+
+Aside from in-class studio sessions, all other meetings will take place in 78-209 or 78-207. Access to 78-207 has been approved for all team members.
+
+<h4>Online Communication</h4>
+A private group channel has been set up on Slack (#react @ https://deco3500.slack.com) for general communication, as all team members are familiar with Slack and already use Slack on a daily basis. Since Slack is a cross-platform instant messaging application, its notifications can enable all team members to stay updated easily. Slack will be used for communicating updates on project progress or difficulties, file-sharing Google Drive files, and syncing GitHub activity. All team members are expected to continue to check Slack on a daily basis. Additionally, all team members have enabled mobile notifications for any activity within the team Slack channel, so it is anticipated that messages will likely be read by everyone within a few hours of them being sent. Since the Slack channel has been created within the existing course Slack team for DECO7350, using this platform will simultaneously encourage team members to keep updated with general course announcements.
+
+<h4>File Sharing</h4>
+A shared Google Drive folder has been created for collaborative work on project documents. Any project criteria documents published on Blackboard have been copied into this folder for easier access.
+
+<h4>Version Control</h4>
+A GitHub repository has been created to sync programming files. Milestones and issues will be created and allocated to team members by referencing the project plan. ZenHub will be used for improved visualization of the project repository. It will also assist in project management. 
+
+<h4>File Naming Conventions</h4>
+Underscores will be used as a delimiter within all file names. Files should be logically named according to the defined category they pertain to, followed by an underscore and the name of a more specific category. For categories that are more than one word, camelCase with the first letter lowercased should be employed. Finally, each file should contain a version number at the end in the form “v#.” An example of a properly named file is: “bracelet_readGsr_v3.” In general, file names should be kept as concise as possible.
+
 <h2>Plan</h2>
+<h4>Some Preliminary Notes on the Structure of our Project Plan</h4>
+Please note that the second half of our project plan is deliberately ambiguous. We don’t want to define the value of the awareness our application provides from the start of our project because this awareness will mean different things to different people. For instance, if someone’s data shows that they had barely no response to a tragic news story, they might feel happy about this and happy about the fact that they can move on with their life without feeling overly affected. A different person might feel bad, and feel as if they are “heartless” or “too numb to feel anything at all.” Our intention with this project is to first just provide this base level of awareness, and to study what users may make of this awareness, what it will mean to them, and how it may influence the ways that they read and consume news. After prototyping and user testing (which will take place in Week 8), we will design and develop a more specific application that responds to the specific human values we identify.
+
+The format of our project plan is in response to Dekker’s provided feedback both in conversation and on GitHub. He agreed with us that we should first make efforts to understand what the GSR data means to people before proposing a specific usage of this data, and suggested that we focus on two separate iterations. “Step one, get the data. Step two, play with the data.” (Dekker) 
+
+Since the application of affective feedback to news consumption is such an unexplored space, it is crucial to first identify what this data actually is (e.g. do the readings vary greatly?; are the readings actually indicative of the response people think they had?), and what it may mean to people (e.g. what do people want to see done with this data?; in what ways might people value awareness of this data, and why?). As such, we have purposefully refrained from being specific about what exactly we may build for our final prototype and how it may utilize the GSR data. Although we will eventually build a more targeted prototype, we should reiterate that our primary objective with this project is to see how the introduction of our initial bracelet prototype can lead to human values emerging surrounding the application of affective feedback to news consumption. This project is an exploration of what this awareness might mean to people, and how designers can leverage emerging human values in order to develop socially meaningful applications within this space.
+
+<h4>Overall Project Plan</h4>
+
+
+<h4>Breakdown of Milestones & Task Allocation</4>
+
+
 <h2>Tags</h2>
+#awareness #humanvalues #affectivecomputing #ambiguity #wearabletechnology #internetofthings #newsconsumption
+
+<h2>References</h2>
+*Brutality-Desensitization Process Nearly Complete.* (1999). *The Onion.* Retrieved 4 September 2016, from http://www.theonion.com/article/brutality-desensitization-process-nearly-complete-734
+
+Davey, G. (2012). *The Psychological Effects of TV News.* *Psychology Today.* Retrieved 4 September 2016, from https://www.psychologytoday.com/blog/why-we-worry/201206/the-psychological-effects-tv-news
+
+Gregoire, C. (2015). *What Constant Exposure To Negative News Is Doing To Our Mental Health.* *Huffington Post Australia.* Retrieved 4 September 2016, from http://www.huffingtonpost.com.au/entry/violent-media-anxiety_n_6671732
+
+Singal, J. (2016). *What All This Bad News Is Doing to Us. Science of Us.* Retrieved 4 September 2016, from http://nymag.com/scienceofus/2014/08/what-all-this-bad-news-is-doing-to-us.html
+
+Sisson, M. (2016). *How the News Impacts Your Health (and What You Can Do About It).* *Mark's Daily Apple.* Retrieved 4 September 2016, from http://www.marksdailyapple.com/how-the-news-impacts-your-health-and-what-you-can-do-about-it/#axzz4JFPZwDAZ
+
+Szabo, A., & Hopkinson, K. L. (2007). Negative psychological effects of watching the news in the television: Relaxation or another intervention may be needed to buffer them!. *International Journal of Behavioral Medicine*, 14(2), 57-62.
+
+*The Noun Project.* Retrieved 4 September 2016, from https://thenounproject.com/
+
+Tkalcic, M., Kosir, A., & Tasic, J. (2011). Affective recommender systems: the role of emotions in recommender systems. In *Proc. The RecSys 2011 Workshop on Human Decision Making in Recommender Systems* (pp. 9-13).
