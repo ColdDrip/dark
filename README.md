@@ -18,7 +18,7 @@
     - [Online Communication](#online-communication)
     - [File Sharing](#file-sharing)
     - [Version Control](#version-control)
-    - [File Name Conventions](#file-naming-conventions)
+    - [File Naming Conventions](#file-naming-conventions)
   - [Plan](#plan)
     - [Some Preliminary Notes on the Structure of Our Project Plan](#some-preliminary-notes-on-the-structure-of-our-project-plan)
     - [Overall Project Plan](#overall-project-plan)
