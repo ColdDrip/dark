@@ -43,10 +43,11 @@ The purpose of our intended early release of the initial prototype of the applic
 
 <h2>Team</h2>
 <h4>Members</h4>
-![concept image](/members.png)
+![members table](/members.png)
 
 <h4>Roles & Responsibilities</h4>
 All team members will contribute to all aspects of the project. Members with specific expertise in certain areas will take on leadership roles within those areas and will share their knowledge in order to help other team members help them. Task distribution will vary based on personal preference and skills. As all team members are Master of Interaction Design students, general design-related tasks will be completed by everyone.
+![roles table](/roles.png)
 
 <h4>Decision Making</h4>
 All team decisions will be made collaboratively. If the team cannot reach a consensus, decisions will be made based on majority rule. In certain circumstances, team members most affected by the outcome of a certain decision may have great power than other members in terms of the decision that gets made (e.g. those in charge of making promotional material will have a greater voice in terms of what that material will be, and what it will look like). Once decisions have been reached, all team members must agree to fully accept, support, and commit to those decisions. If, at any point, a team member does not like a decision that was reached, this issue should be discussed openly within the team. If the decision pertains to an increased workload for that team member, adjustments to the project plan can be made so that workload distribution is more equitable. 
