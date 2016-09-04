@@ -10,7 +10,7 @@
     - [Context](#context)
   - [Team](#team)
     - [Members](#members)
-    - [Roles & Responsibilites](#roles--responsibilites)
+    - [Roles & Responsibilities](#roles--responsibilities)
     - [Decision Making](#decision-making)
     - [Issue Handling](#issue-handling)
   - [Communication](#communication)
