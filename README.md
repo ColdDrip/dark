@@ -11,23 +11,23 @@ The primary objective of this project is to see how the introduction of the prot
 <h2>Concept</h2>
 React is an application that enables users to have greater awareness of the magnitude of their own reactions to particular news stories. It is comprised of a smartphone app and a wearable bracelet. When the smartphone app is open, the bracelet measures the user’s real-time galvanic skin response (“GSR”), which is indicative of psychological or physiological arousal. This data is then sent to the smartphone app, which provides the user with a more detailed report of their reactions to varying news stories.
 
-*How it Works*
+<h3>*How it Works*</h3>
 The bracelet component of React is intended to be worn regularly by users, but it will only turn on once users open the React smartphone app and press “track” after finding a news story to read or watch (and inputting its url). As users consume the news story, the bracelet will measure and visualize their GSR. When they are done consuming the news story, users must “stop” the tracking (which will also turn off the bracelet). The smartphone app will then provide them with a graph of their GSR throughout the duration of their consumption time as well as their average GSR, their high, and their low (out of 10, where 10 indicates the highest level of arousal). Additionally, users may compare their own data to that of other anonymous users who have consumed the same news story.
 
 Consistently using React will build up a history of data for users to reflect on. Users can begin to understand their own reactions within a wider context. Using React while consuming news will bring about greater awareness of the impact (or potentially lack thereof) of specific news as it’s being consumed.
 
-*Ambiguity & GSR*
+<h3>*Ambiguity & GSR*</h3>
 There is a lot of ambiguity in GSR because an increase in skin conductance can be the result of either positive or negative stimuli. This ambiguity meshes well with React, as the purpose of the application is not to measure the qualitative nature of arousal, but to instead measure the mere existence of any arousal at all.
 
-*Social Component*
+<h3>*Social Component*</h3>
 React compiles all user data for every news story and provides an average “reaction magnitude,” allowing users to compare their own reaction to that of others.
 
-*Target Audience*
+<h3>*Target Audience*</h3>
 React is primarily intended for people who want to be more aware of the impact (or lack thereof) that consuming particular news stories has on them (and other people). As specific human values are identified after the introduction of our bracelet prototype, our target audience will become narrower. See “Some Preliminary Notes on the Structure of our Project Plan” under “Plan” for more information regarding the scope of this project.
 
 The data React will collect can bring about greater societal awareness of what news requires in order to provoke arousal. This data can therefore be of great use to journalists and researchers. That being said, the application we will develop within this course will be targeted at ordinary news consumers only. We believe that ordinary news consumers must have a personal incentive for wanting awareness of GSR data before such data could even possibly be tracked on a scale large enough to be sufficiently accessible to journalists and researchers. As such, React encompasses personal use and does not extend consideration to more wide-reaching uses of GSR data (though numerous potentialities for such uses certainly do exist).
 
-*Context*
+<h3>*Context*</h3>
 The initial prototype of React (to be developed before the Week 8 standup presentation) will be constructed in order to deliver awareness to users of their affective state while consuming news stories. The scope of this project, however, extends beyond sheer awareness. We intend to develop a more targeted application that builds on the application we describe above. 
 
 There is so much that can be done with the GSR data that React will collect. Possibilities include:
