@@ -43,6 +43,7 @@ The purpose of our intended early release of the initial prototype of the applic
 
 <h2>Team</h2>
 <h4>Members</h4>
+![concept image](/members.png)
 
 <h4>Roles & Responsibilities</h4>
 All team members will contribute to all aspects of the project. Members with specific expertise in certain areas will take on leadership roles within those areas and will share their knowledge in order to help other team members help them. Task distribution will vary based on personal preference and skills. As all team members are Master of Interaction Design students, general design-related tasks will be completed by everyone.
