@@ -2,9 +2,25 @@
   - [Introduction](#introduction)
   - [Concept](#concept)
     - [How it Works](#how-it-works)
+    - [Ambiguity & GSR](#ambiguity-&-gsr)
+    - [Social Component](#social-component)
+    - [Target Audience](#target-audience)
+    - [Context](#context)
   - [Team](#team)
+    - [Members](#members)
+    - [Roles & Responsibilites](#roles-&-responsibilites)
+    - [Decision Making](#decision-making)
+    - [Issue Handling](#issue-handling)
   - [Communication](#communication)
+    - [Meetings](#meetings)
+    - [Online Communication](#online-communication)
+    - [File Sharing](#file-sharing)
+    - [Version Control](#version-control)
+    - [File Name Conventions](#file-naming-conventions)
   - [Plan](#plan)
+    - [Some Preliminary Notes on the Structure of Our Project Plan](#some-preliminary-notes-on-the-structure-of-our-project-plan)
+    - [Overall Project Plan](#overall-project-plan)
+    - [Breakdown of Milestones & Task Allocation](#breakdown-of-milestones-&-task-allocation)
   - [Tags](#tags)
   - [References](#references)
 
@@ -34,7 +50,7 @@ There is a lot of ambiguity in GSR because an increase in skin conductance can b
 React compiles all user data for every news story and provides an average “reaction magnitude,” allowing users to compare their own reaction to that of others.
 
 <h4>Target Audience</h4>
-React is primarily intended for people who want to be more aware of the impact (or lack thereof) that consuming particular news stories has on them (and other people). As specific human values are identified after the introduction of our bracelet prototype, our target audience will become narrower. See “Some Preliminary Notes on the Structure of our Project Plan” under “Plan” for more information regarding the scope of this project.
+React is primarily intended for people who want to be more aware of the impact (or lack thereof) that consuming particular news stories has on them (and other people). As specific human values are identified after the introduction of our bracelet prototype, our target audience will become narrower. See “Some Preliminary Notes on the Structure of Our Project Plan” under “Plan” for more information regarding the scope of this project.
 
 The data React will collect can bring about greater societal awareness of what news requires in order to provoke arousal. This data can therefore be of great use to journalists and researchers. That being said, the application we will develop within this course will be targeted at ordinary news consumers only. We believe that ordinary news consumers must have a personal incentive for wanting awareness of GSR data before such data could even possibly be tracked on a scale large enough to be sufficiently accessible to journalists and researchers. As such, React encompasses personal use and does not extend consideration to more wide-reaching uses of GSR data (though numerous potentialities for such uses certainly do exist).
 
@@ -48,7 +64,7 @@ There is so much that can be done with the GSR data that React will collect. Pos
 + utilizing haptic feedback to indicate to users what the average reaction magnitude was to the news story they are consuming as they are consuming it
 + and so much more...
 
-The purpose of our intended early release of the initial prototype of the application described above is to allow us to more clearly identify human values that emerge in response to the awareness that this prototype provides. For a clearer explanation of why we have chosen to conduct the project in this manner, see “Some Preliminary Notes on the Structure of our Project Plan” under “Plan,” which provides more coherent justifications in regards to the scope of this project.
+The purpose of our intended early release of the initial prototype of the application described above is to allow us to more clearly identify human values that emerge in response to the awareness that this prototype provides. For a clearer explanation of why we have chosen to conduct the project in this manner, see “Some Preliminary Notes on the Structure of Our Project Plan” under “Plan,” which provides more coherent justifications in regards to the scope of this project.
 
 <h2>Team</h2>
 <h4>Members</h4>
@@ -90,7 +106,7 @@ A GitHub repository has been created to sync programming files. Milestones and i
 Underscores will be used as a delimiter within all file names. Files should be logically named according to the defined category they pertain to, followed by an underscore and the name of a more specific category. For categories that are more than one word, camelCase with the first letter lowercased should be employed. Finally, each file should contain a version number at the end in the form “v#.” An example of a properly named file is: “bracelet_readGsr_v3.” In general, file names should be kept as concise as possible.
 
 <h2>Plan</h2>
-<h4>Some Preliminary Notes on the Structure of our Project Plan</h4>
+<h4>Some Preliminary Notes on the Structure of Our Project Plan</h4>
 Please note that the second half of our project plan is deliberately ambiguous. We don’t want to define the value of the awareness our application provides from the start of our project because this awareness will mean different things to different people. For instance, if someone’s data shows that they had barely no response to a tragic news story, they might feel happy about this and happy about the fact that they can move on with their life without feeling overly affected. A different person might feel bad, and feel as if they are “heartless” or “too numb to feel anything at all.” Our intention with this project is to first just provide this base level of awareness, and to study what users may make of this awareness, what it will mean to them, and how it may influence the ways that they read and consume news. After prototyping and user testing (which will take place in Week 8), we will design and develop a more specific application that responds to the specific human values we identify.
 
 The format of our project plan is in response to Dekker’s provided feedback both in conversation and on GitHub. He agreed with us that we should first make efforts to understand what the GSR data means to people before proposing a specific usage of this data, and suggested that we focus on two separate iterations. “Step one, get the data. Step two, play with the data.” (Dekker) 
