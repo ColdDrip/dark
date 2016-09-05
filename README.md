@@ -118,6 +118,7 @@ Since the application of affective feedback to news consumption is such an unexp
 
 <h4>Project Phases</h4>
 ![phases diagram](/phases.png)
+Our plan is highly iterative. Following this week, we expect to generally move through the design thinking process in the following fashion: prototyping, testing, empathizing, defining, ideating, prototyping, testing, prototyping, testing... This is only an overview. We will strive for as thorough of a process as we are able to undertake given the pace of our progress.
 
 <h4>Overall Project Plan</h4>
 ![plan table](/plan.png)
