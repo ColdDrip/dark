@@ -1,5 +1,5 @@
 #React
-![logo](/logo.png)
+![logo](/assets/image/logo.png)
 <h2>Overview</h2>
   - [Introduction](#introduction)
   - [Concept](#concept)
@@ -39,7 +39,7 @@ The primary objective of this project is to see how the introduction of the prot
 <h2>Concept</h2>
 React is an application that enables users to have greater awareness of the magnitude of their own reactions to particular news stories. It is comprised of a smartphone app and a wearable bracelet. When the smartphone app is open, the bracelet measures the user’s real-time galvanic skin response (“GSR”), which is indicative of psychological or physiological arousal. This data is then sent to the smartphone app, which provides the user with a more detailed report of their reactions to varying news stories.
 
-![concept image](/concept.png)
+![concept image](/assets/image/concept.png)
 
 <h4>How it Works</h4>
 The bracelet component of React is intended to be worn regularly by users, but it will only turn on once users open the React smartphone app and press “track” after finding a news story to read or watch (and inputting its url). As users consume the news story, the bracelet will measure and visualize their GSR. When they are done consuming the news story, users must “stop” the tracking (which will also turn off the bracelet). The smartphone app will then provide them with a graph of their GSR throughout the duration of their consumption time as well as their average GSR, their high, and their low (out of 10, where 10 indicates the highest level of arousal). Additionally, users may compare their own data to that of other anonymous users who have consumed the same news story.
@@ -71,12 +71,12 @@ The purpose of our intended early release of the initial prototype of the applic
 
 <h2>Team</h2>
 <h4>Members</h4>
-![members table](/members.png)
+![members table](/assets/image/members.png)
 
 <h4>Roles & Responsibilities</h4>
 All team members will contribute to all aspects of the project. Members with specific expertise in certain areas will take on leadership roles within those areas and will share their knowledge in order to help other team members help them. Task distribution will vary based on personal preference and skills. As all team members are Master of Interaction Design students, general design-related tasks will be completed by everyone.
 
-![roles table](/roles.png)
+![roles table](/assets/image/roles.png)
 
 <h4>Decision Making</h4>
 All team decisions will be made collaboratively. If the team cannot reach a consensus, decisions will be made based on majority rule. In certain circumstances, team members most affected by the outcome of a certain decision may have great power than other members in terms of the decision that gets made (e.g. those in charge of making promotional material will have a greater voice in terms of what that material will be, and what it will look like). Once decisions have been reached, all team members must agree to fully accept, support, and commit to those decisions. If, at any point, a team member does not like a decision that was reached, this issue should be discussed openly within the team. If the decision pertains to an increased workload for that team member, adjustments to the project plan can be made so that workload distribution is more equitable. 
@@ -117,14 +117,14 @@ The format of our project plan is in response to Dekker’s provided feedback bo
 Since the application of affective feedback to news consumption is such an unexplored space, it is crucial to first identify what this data actually is (e.g. do the readings vary greatly?; are the readings actually indicative of the response people think they had?), and what it may mean to people (e.g. what do people want to see done with this data?; in what ways might people value awareness of this data, and why?). As such, we have purposefully refrained from being specific about what exactly we may build for our final prototype and how it may utilize the GSR data. Although we will eventually build a more targeted prototype, we should reiterate that our primary objective with this project is to see how the introduction of our initial bracelet prototype can lead to human values emerging surrounding the application of affective feedback to news consumption. This project is an exploration of what this awareness might mean to people, and how designers can leverage emerging human values in order to develop socially meaningful applications within this space.
 
 <h4>Project Phases</h4>
-![phases diagram](/phases.png)
+![phases diagram](/assets/image/phases.png)
 Our plan is highly iterative. Following this week, we expect to generally move through the design thinking process in the following fashion: prototyping, testing, empathizing, defining, ideating, prototyping, testing, prototyping, testing... This is only an overview. We will strive for as thorough of a process as we are able to undertake given the pace of our progress.
 
 <h4>Overall Project Plan</h4>
-![plan table](/plan.png)
+![plan table](/assets/image/plan.png)
 
 <h4>Breakdown of Milestones & Task Allocation</h4>
-![milestones table](/milestones.png)
+![milestones table](/assets/image/milestones.png)
 
 <h2>Tags</h2>
 \#awareness \#humanvalues \#affectivecomputing \#ambiguity \#wearabletechnology \#internetofthings \#newsconsumption
