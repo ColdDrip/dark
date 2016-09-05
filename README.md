@@ -21,6 +21,7 @@
     - [File Naming Conventions](#file-naming-conventions)
   - [Plan](#plan)
     - [Some Preliminary Notes on the Structure of Our Project Plan](#some-preliminary-notes-on-the-structure-of-our-project-plan)
+    - [Project Phases](#project-phases)
     - [Overall Project Plan](#overall-project-plan)
     - [Breakdown of Milestones & Task Allocation](#breakdown-of-milestones--task-allocation)
   - [Tags](#tags)
@@ -114,6 +115,9 @@ Please note that the second half of our project plan is deliberately ambiguous. 
 The format of our project plan is in response to Dekker’s provided feedback both in conversation and on GitHub. He agreed with us that we should first make efforts to understand what the GSR data means to people before proposing a specific usage of this data, and suggested that we focus on two separate iterations. “Step one, get the data. Step two, play with the data.” (Dekker) 
 
 Since the application of affective feedback to news consumption is such an unexplored space, it is crucial to first identify what this data actually is (e.g. do the readings vary greatly?; are the readings actually indicative of the response people think they had?), and what it may mean to people (e.g. what do people want to see done with this data?; in what ways might people value awareness of this data, and why?). As such, we have purposefully refrained from being specific about what exactly we may build for our final prototype and how it may utilize the GSR data. Although we will eventually build a more targeted prototype, we should reiterate that our primary objective with this project is to see how the introduction of our initial bracelet prototype can lead to human values emerging surrounding the application of affective feedback to news consumption. This project is an exploration of what this awareness might mean to people, and how designers can leverage emerging human values in order to develop socially meaningful applications within this space.
+
+<h4>Project Phases</h4>
+![phases diagram](/phases.png)
 
 <h4>Overall Project Plan</h4>
 ![plan table](/plan.png)
