@@ -1,0 +1,31 @@
+ACCESS ZONE:
+The website is: 
+External link: http://s4404812-minimize.uqcloud.net/ 
+Internal link: http://s4404812-minimize.zones.eait.uq.edu.au
+
+To access it, open terminal and type 
+ssh s#######@s4404812-minimize.zones.eait.uq.edu.au 
+
+Your password is the same as the one for your uni account.
+
+ACCESS DB:
+http://s4404812-minimize.uqcloud.net/phpmyadmin 
+
+CONNECT TO DB WITHIN CODE:
+Server = localhost
+Dbname = React
+Username = root
+Password = )otem0N4niDt
+
+FILEZILLA:
+Host: sftp://s4404812-minimize.zones.eait.uq.edu.au
+Username: s#######
+Password: same as for uni
+Port: 22 (or blank)
+
+To get to the files, click the top folder then go to VAR >>> WWW >>> HTDOCS…
+/var/www/htdocs
+
+OTHER:
+For more guides, refer to:
+https://help.eait.uq.edu.au/smartos/webproject/getting-started.html
