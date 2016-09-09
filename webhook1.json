@@ -1,0 +1,13 @@
+{
+	"event": "pbotnewdata",
+	"url":"http://s4404812-minimize.uqcloud.net/code.php",
+	"requestType": "POST",
+	"form":
+	{
+		"thisdevice": "{{SPARK_CORE_ID}}",
+		"variable": "{{variable}}",
+		"value": "{{value}}",
+		"eventid": "{{eventid}}"
+	},
+	"mydevices": false
+}
