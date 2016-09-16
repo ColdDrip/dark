@@ -1,0 +1,16 @@
+{
+	"event": "gsr_detected_update",
+
+	"url": "http://s4404812-minimize.uqcloud.net/views/gsr_testing.php",
+
+	"requestType": "POST",
+
+	"form":
+	{
+
+		"thisdevice": "{{SPARK_CORE_ID}}",
+		"gsrdetected": "{{gsr_detected}}"
+	},
+
+	"mydevices": true
+}
