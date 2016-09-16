@@ -11,7 +11,7 @@ $gsr = $_POST['gsrdetected'];
 echo "hello ".$_POST['gsrdetected']." ";
 
 
-
+...
 $db = null;
 
 ?>
