@@ -1,12 +1,12 @@
 <?php
-$db = new PDO('mysql:host=localhost;dbname=newdata;charset=utf8',
-'webuser','webuser');
+$db = new PDO('mysql:host=localhost;dbname=React;charset=utf8',
+'root',')otem0N4niDt');
 $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRORMODE_EXCEPTION);
 $db->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
 
 try
 {
-	$testresult = $db->query("SELECT * FROM newdata");
+	$testresult = $db->query("SELECT * FROM Data");
 	echo "Connected to db";
 }
 catch(PDOException $ex)

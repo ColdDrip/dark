@@ -1,15 +1,15 @@
 ACCESS ZONE:
-The website is: 
-External link: http://s4404812-minimize.uqcloud.net/ 
+The website is:
+External link: http://s4404812-minimize.uqcloud.net/
 Internal link: http://s4404812-minimize.zones.eait.uq.edu.au
 
-To access it, open terminal and type 
-ssh s#######@s4404812-minimize.zones.eait.uq.edu.au 
+To access it, open terminal and type
+ssh s#######@s4404812-minimize.zones.eait.uq.edu.au
 
 Your password is the same as the one for your uni account.
 
 ACCESS DB:
-http://s4404812-minimize.uqcloud.net/phpmyadmin 
+http://s4404812-minimize.uqcloud.net/phpmyadmin
 
 CONNECT TO DB WITHIN CODE:
 Server = localhost
