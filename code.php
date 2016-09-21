@@ -1,13 +1,12 @@
 <?php
 
 
-include_once 'utils.php';
+include_once 'handlers/utils.php';
 
-date_default_timezone_set('Australia/Brisbane');
 
 $p_particledeviceid = $_POST['thisdevice'];
-$p_variable = $_POST['variable'];
-$p_value = $_POST['value'];
+$p_gsr_index = $_POST['variable'];
+$p_gsr_reading = $_POST['value'];
 $p_eventid = $_POST['eventid'];
 
 $s_eventid = date("Y").date("m").date("d").date("h").date("i")."-".$p_eventid;

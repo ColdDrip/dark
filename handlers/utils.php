@@ -6,7 +6,7 @@ $db->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
 
 try
 {
-	$testresult = $db->query("SELECT * FROM Data");
+	$testresult = $db->query("SELECT * FROM records");
 	echo "Connected to db";
 }
 catch(PDOException $ex)
