@@ -9,6 +9,16 @@
 
 How to use it: 
 
+For the most part, using the interactive prototype is pretty straightforward. It should, however, be noted that not all aspects of the application were fully prototyped. 
+
+On the homepage, you can only view the data for the first article. When asked how you feel after reading the article, you can only select the frowning face. (It must be selected before selecting "confirm.") 
+
+You cannot select your own filters with this prototype. We have preselected the filters to communicate the basic idea. 
+
+Some pages will require scrolling to move to other pages. 
+
+Other than this, we believe that all interface interactions are evident. Our primary focus in prototyping was on the social aspects of the application.
+
 <h4>Summary: what is the problem space and how did you address it?</h4>
 [Problem Space](#introduction).
 
@@ -26,7 +36,7 @@ Alyssa - GSR, documentation, video script, design (testing & iteration)
 
 Rena - GSR, video editing, design (testing & iteration)
 
-Kevin - Sketch mockup, InVision Wireframe, design (testing & iteration)
+Kevin - Sketch mockup, InVision wireframe, design (testing & iteration)
 
 Dennys - video animation, design (testing & iteration)
 
