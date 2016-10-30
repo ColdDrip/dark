@@ -2,20 +2,24 @@
 
 <h2>Final Submission</h2>
 <h4>Promotional Material:</h4> 
-[Video](https://youtu.be/tBYPF6F7iu0)
+[Video](https://youtu.be/tBYPF6F7iu0).
 
 <h4>Prototype:</h4>
-[Interactive Mockup](https://projects.invisionapp.com/share/5V8TFML43#/screens/192659041)
+[Interactive Mockup](https://projects.invisionapp.com/share/5V8TFML43#/screens/192659041).
 
 How to use it: 
 
 <h4>Summary: what is the problem space and how did you address it?</h4>
-[Problem Space](#introduction)
+[Problem Space](#introduction).
 
 We addressed the problem space making sense of GSR data, identifying human values, prototyping, testing, and iterating. Our application, React, aims to present GSR data in a meaningful way by allowing users to compare themselves to specific user groups.
 
 <h4>Process: how did you tackle this problem? Use images and extended captions to explain the design process and how your ideas evolved. Mention any limitations or relevant theory.</h4>
 [Process Documentation](https://projects.invisionapp.com/share/5V8TFML43#/screens/192659041)
+
+Limitations:
+
+Relevant Theory:
 
 <h4>Include a list of who did what in the project.</h4>
 Alyssa - GSR, documentation, video script, design (testing & iteration)
@@ -25,6 +29,7 @@ Rena - GSR, video editing, design (testing & iteration)
 Kevin - Sketch mockup, InVision Wireframe, design (testing & iteration)
 
 Dennys - video animation, design (testing & iteration)
+
 
 ![logo](/assets/images/logo.png)
 <h2>Overview</h2>
