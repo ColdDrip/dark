@@ -15,7 +15,7 @@ How to use it:
 We addressed the problem space making sense of GSR data, identifying human values, prototyping, testing, and iterating. Our application, React, aims to present GSR data in a meaningful way by allowing users to compare themselves to specific user groups.
 
 <h4>Process: how did you tackle this problem? Use images and extended captions to explain the design process and how your ideas evolved. Mention any limitations or relevant theory.</h4>
-[Process Documentation](https://projects.invisionapp.com/share/5V8TFML43#/screens/192659041)
+[Process Documentation](https://projects.invisionapp.com/share/5V8TFML43#/screens/192659041).
 
 Limitations:
 
