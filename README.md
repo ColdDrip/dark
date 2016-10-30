@@ -6,6 +6,7 @@
 
 <h4>Prototype:</h4>
 [Interactive Mockup](https://projects.invisionapp.com/share/5V8TFML43#/screens/192659041)
+
 How to use it: 
 
 <h4>Summary: what is the problem space and how did you address it?</h4>
@@ -18,8 +19,11 @@ We addressed the problem space making sense of GSR data, identifying human value
 
 <h4>Include a list of who did what in the project.</h4>
 Alyssa - GSR, documentation, video script, design (testing & iteration)
+
 Rena - GSR, video editing, design (testing & iteration)
+
 Kevin - Sketch mockup, InVision Wireframe, design (testing & iteration)
+
 Dennys - video animation, design (testing & iteration)
 
 ![logo](/assets/images/logo.png)
