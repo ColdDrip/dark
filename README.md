@@ -1,6 +1,7 @@
 #React
 ![logo](/assets/images/logo.png)
 <h2>Overview</h2>
+  - [Final Prototype](#Final Prototype)
   - [Introduction](#introduction)
   - [Concept](#concept)
     - [How it Works](#how-it-works)
@@ -26,6 +27,9 @@
     - [Breakdown of Milestones & Task Allocation](#breakdown-of-milestones--task-allocation)
   - [Tags](#tags)
   - [References](#references)
+
+<h2>Final Prototype</h2>
+Video: https://youtu.be/tBYPF6F7iu0
 
 <h2>Introduction</h2>
 Although few studies have examined the effects of news on consumers’ affective state (Szabo & Hopkinson, 2007), it is commonly understood that news can and does psychologically impact those who consume it (Sisson, 2016; Singal, 2016; Gregoire, 2015; Davey, 2012) but not always in the ways we might expect (*Brutality-Desensitization Process Nearly Complete*, 1999).
