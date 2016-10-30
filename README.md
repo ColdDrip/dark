@@ -29,8 +29,9 @@
   - [References](#references)
 
 <h2>Final Prototype</h2>
-Video: https://youtu.be/tBYPF6F7iu0
-Interactive Mockup: https://projects.invisionapp.com/share/5V8TFML43#/screens/192659041
+[Video](https://youtu.be/tBYPF6F7iu0)
+
+[Interactive Mockup](https://projects.invisionapp.com/share/5V8TFML43#/screens/192659041)
 
 
 <h2>Introduction</h2>
