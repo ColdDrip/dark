@@ -31,6 +31,8 @@ Limitations:
 
 Relevant Theory:
 
+Findings and project outcomes will be discussed within our individual reports.
+
 <h4>Include a list of who did what in the project.</h4>
 Alyssa - GSR, documentation, video script, design (testing & iteration)
 
