@@ -15,9 +15,9 @@ On the homepage, you can only view the data for the first article. When asked ho
 
 You cannot select your own filters with this prototype. We have preselected the filters to communicate the basic idea. 
 
-Some pages will require scrolling to move to other pages. 
+Some pages will require sliding to move to other pages. 
 
-Other than this, we believe that all interface interactions are evident. Our primary focus in prototyping was on the social aspects of the application.
+Other than this, we believe that all interface interactions are evident. Our primary focus in prototyping was on the social aspects of the application -- specifically, embedding information that enables users to make more sense out of and gain more value from the raw data.
 
 <h4>Summary: what is the problem space and how did you address it?</h4>
 [Problem Space](#introduction).
