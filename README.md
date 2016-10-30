@@ -22,16 +22,14 @@ Other than this, we believe that all interface interactions are evident. Our pri
 <h4>Summary: what is the problem space and how did you address it?</h4>
 [Problem Space](#introduction).
 
-We addressed the problem space making sense of GSR data, identifying human values, prototyping, testing, and iterating. Our application, React, aims to present GSR data in a meaningful way by allowing users to compare themselves to specific user groups.
+We addressed the problem space by following the following process: making sense of the GSR data, identifying human values, prototyping, testing, and iterating. Our application, React, aims to present GSR data in a meaningful way (responding to the human values we identified) by allowing users to compare their own data to that of very specific user groups.
 
 <h4>Process: how did you tackle this problem? Use images and extended captions to explain the design process and how your ideas evolved. Mention any limitations or relevant theory.</h4>
 [Process Documentation](Process Documentation.pdf).
 
-Limitations:
+Limitations: A major limitation of this exploration was our initial focus on GSR data specifically (instead of just affective data broadly). Participants in our workshops felt that the solely quantitative nature of the data really made it difficult to value it. A better starting point for this project would have been exploring the application of affective feedback (in general -- not just GSR) to news consumption. (This is really what we did intend explore, but we elected to confine the project to GSR from the beginning... And this, of course, greatly limited our exploration.) For the timeframe we were given to design an application, it may have also been better to just discount existing tools for affective measurements, and start with the human values aspect of the project (rather than getting people to make sense of affective data, which -- in our case -- did not really make much sense to participants at all). Made-up data could have been effectively used in the early stages of our design process, and would have likely resulted in us getting the information (regarding human values) we were seeking (but did not get) in earlier stages of this project.
 
-Relevant Theory:
-
-Findings and project outcomes will be discussed within our individual reports.
+Further findings and project outcomes will be discussed within our individual reports.
 
 <h4>Include a list of who did what in the project.</h4>
 Alyssa - GSR, documentation, video script, design (testing & iteration)
