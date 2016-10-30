@@ -22,7 +22,7 @@ Other than this, we believe that all interface interactions are evident. Our pri
 <h4>Summary: what is the problem space and how did you address it?</h4>
 [Problem Space](#introduction).
 
-We addressed the problem space by following the following process: making sense of the GSR data, identifying human values, prototyping, testing, and iterating. Our application, React, aims to present GSR data in a meaningful way (responding to the human values we identified) by allowing users to compare their own data to that of very specific user groups.
+We addressed the problem space by following the following process: making sense of the GSR data, identifying human values, prototyping, testing, and iterating. Our application, React, aims to present GSR data in a meaningful way by allowing users to compare their own data to that of very specific user groups. The main human value this design decision responds to is the value of being able to compare yourself to select others. We found that affective data can resonate more with people if the application provides awareness of the beliefs and values of those who read the same article, and lets people filter by these categories.
 
 <h4>Process: how did you tackle this problem? Use images and extended captions to explain the design process and how your ideas evolved. Mention any limitations or relevant theory.</h4>
 [Process Documentation](Process Documentation.pdf).
